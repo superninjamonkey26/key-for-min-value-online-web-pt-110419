@@ -15,4 +15,4 @@ def key_for_min_value(name_hash)
   min_key
 end
 
-key_for_min_value = {:adam =>
+name_hash = {:adam =>
